@@ -2,5 +2,11 @@
 
 **Screenshots**
 
-*Homepage*
+**Homepage**
+
 ![Homepage](static/screenshots/Homepage.png).
+
+
+**Admin Dashboard**
+
+![AdminDashboard](static/screenshots/admin-dashboard.png)
