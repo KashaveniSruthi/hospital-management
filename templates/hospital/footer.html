@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+  <style>
+    /*---------------------------------------
+   Social section
+-----------------------------------------*/
+    footer {
+      padding: 0px 0px 0px 0px;
+      background-color: black;
+      margin: 0px;
+    }
+
+    .fa {
+      padding: 20px;
+      font-size: 23px;
+      width: 60px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+      border-radius: 50%;
+    }
+
+    .fa:hover {
+      opacity: 0.5;
+      text-decoration: none;
+    } 
+    .fa-hackerrank {
+      background: #516157;
+      color: white;
+      margin-top: 30px;
+    }
+
+    .fa-linkedin {
+      background: #516157;
+      color: white;
+      margin-top: 30px;
+    }
+    p {
+      text-align: center;
+
+    }
+
+  </style>
+</head>
+
+<footer>
+  <p>
+    <a href="https://www.linkedin.com/in/shruthi-kashaveni-6470011b7/" class="fa fa-linkedin"></a>
+    <a href="https://www.hackerrank.com/profile/kashavenisruthi" class="fa fa-hackerrank"><img src="data:image/png;base64,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" alt="HackerRank Icon" style="width: 25px; vertical-align: middle;"></a>
+  </p>
+
+  <br>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div style="color:#ffffff;" class="wow fadeInUp footer-copyright">
+          <p>Made in India <br>
+            Copyright &copy; Shruthi Kashaveni </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</html>
