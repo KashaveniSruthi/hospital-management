@@ -1,4 +1,4 @@
-##Hospital Management System##
+# Hospital Management System
 
 **Screenshots**
-![Homepage](.static/screenshots/Homepage.png)
+![Homepage](.static/screenshots/Homepage.png).
