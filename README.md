@@ -21,4 +21,4 @@
 
 **Invoice**
 
-![Invoice](static/screenshots/admin-dashboard.png)
+![Invoice](static/screenshots/Invoice.png)
