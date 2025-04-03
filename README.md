@@ -1,2 +1,4 @@
-##Hospital Management System
-*Screenshots*
+##Hospital Management System##
+
+**Screenshots**
+![Homepage](.static/screenshots/Homepage.png)
