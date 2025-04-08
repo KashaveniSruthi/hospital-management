@@ -4,24 +4,24 @@
 
 **Homepage**
 
-![Homepage](static/screenshots/Homepage.png).
+![Homepage](static/home.png).
 
 
 **Admin Dashboard**
 
-![AdminDashboard](static/screenshots/admin-dashboard.png)
+![AdminDashboard](static/screenshots/admin Homepage.png)
 
 **Doctor's List**
 
-![Doctor's List](static/screenshots/Doctors-List.png)
+![Doctor's List](static/Doctor.png)
 
 **Patient's List**
 
-![Patient's List](static/screenshots/patient-list.png)
+![Patient's List](static/Patient.png)
 
 **Invoice**
 
-![Invoice](static/screenshots/Invoice.png)
+![Invoice](static/Invoice.png)
 
 **Functions**
 
