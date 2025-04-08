@@ -9,7 +9,7 @@
 
 **Admin Dashboard**
 
-![AdminDashboard](static/AdminHomepage.png)
+![AdminDashboard](static/AdminDashboard.png)
 
 **Doctor's List**
 
